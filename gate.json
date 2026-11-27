@@ -1,7 +1,8 @@
 {
-  "block": [154],
+  "min": 156,
+  "block": [],
   "title": "发现新版本",
   "message": "当前版本已停止服务，请前往网盘下载最新版本。",
   "button": "去网盘下载",
-  "url": "你的网盘链接"
+  "url": "https://pan.baidu.com/s/你的链接"
 }
